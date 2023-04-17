@@ -1,0 +1,8 @@
+.destination{
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    flex-direction: column;
+}

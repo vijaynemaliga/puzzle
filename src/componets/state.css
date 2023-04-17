@@ -1,0 +1,27 @@
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    justify-content: space-around;
+    gap:10px;
+}
+.hint{
+    width:8vw;
+    height:5vh;
+    background-color: red;
+}
+.state-img{
+    width:300px;
+    height:250px;
+    border-radius: 5px;
+}
+.title1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.question-hint{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
