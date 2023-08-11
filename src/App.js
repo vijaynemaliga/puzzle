@@ -10,7 +10,7 @@ import House from './componets/house';
 import Destination from './componets/destination';
 import Levels from './componets/difficultyLevel';
 import { UserContextprovider} from './context/UserAuthContex';
-import { BrowserRouter as Router, Route, Switch ,Routes} from 'react-router-dom';
+import { BrowserRouter as Router, Route,Routes} from 'react-router-dom';
 function App() {
   return (
     < UserContextprovider>
